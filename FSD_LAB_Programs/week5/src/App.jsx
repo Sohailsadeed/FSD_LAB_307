@@ -6,7 +6,7 @@ function Home() {
   return (
     <div className="page">
       <h1>Welcome to My Website</h1>
-      <h2>Shravani Kamsani</h2>
+      <h2>Mohammad Sohail Ahmed</h2>
 
       <p>
         B.Tech 3rd Year | CSE (AI & ML)
@@ -26,7 +26,7 @@ function About() {
       <h1>About Me</h1>
 
       <p>
-        I am Shravani Kamsani, a B.Tech 3rd-year
+        I am Mohammad Sohail Ahmed, a B.Tech 3rd-year
         Computer Science and Engineering student
         specializing in Artificial Intelligence and
         Machine Learning at Chaitanya Bharathi
@@ -50,7 +50,7 @@ function Contact() {
     <div className="page">
       <h1>Contact Me</h1>
 
-      <p>Name: Shravani Kamsani</p>
+      <p>Name: Mohammad Sohail Ahmed</p>
 
       <p>
         CSE (AI & ML) Student |
@@ -81,7 +81,7 @@ function App() {
   return (
     <BrowserRouter>
       <nav className="navbar">
-        <h2>Shravani's React Site</h2>
+        <h2>Mohammad Sohail Ahmed's React Site</h2>
 
         <div className="nav-links">
           <Link to="/">Home</Link>
